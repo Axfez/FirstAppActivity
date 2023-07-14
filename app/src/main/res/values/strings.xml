@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirstAppActivity</string>
+    <string name="push_me">Push me</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="this_is_an_example">This is an example</string>
+    <string name="greeting_app">Greeting App</string>
+    <string name="imc_app">IMC App</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="ic_female">ic_female</string>
+    <string name="ic_male">ic_male</string>
+    <string name="_120_cm">120 cm</string>
+</resources>
